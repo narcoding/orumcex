@@ -1,0 +1,13 @@
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\orumcex.exe.config
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\orumcex.exe
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\orumcex.pdb
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\obj\Debug\orumcex.Form1.resources
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\obj\Debug\orumcex.Properties.Resources.resources
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\obj\Debug\orumcex.csproj.GenerateResource.Cache
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\obj\Debug\orumcex.exe
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\obj\Debug\orumcex.pdb
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\HtmlAgilityPack.dll
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\HtmlAgilityPack.pdb
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\HtmlAgilityPack.xml
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\Newtonsoft.Json.dll
+c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\Newtonsoft.Json.xml
