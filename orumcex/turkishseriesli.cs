@@ -7,9 +7,9 @@ using Newtonsoft.Json;
 
 namespace orumcex
 {
-    public partial class Form1 : Form
+    public partial class turkishseriesli : Form
     {
-        public Form1()
+        public turkishseriesli()
         {
             InitializeComponent();
         }
@@ -129,6 +129,7 @@ namespace orumcex
             string json = JsonConvert.SerializeObject(o);
             return json;
         }
+
 
     }
 

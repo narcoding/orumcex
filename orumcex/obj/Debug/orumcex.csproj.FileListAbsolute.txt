@@ -11,3 +11,18 @@ c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug
 c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\HtmlAgilityPack.xml
 c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\Newtonsoft.Json.dll
 c:\users\naimyag\documents\visual studio 2015\Projects\orumcex\orumcex\bin\Debug\Newtonsoft.Json.xml
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\orumcex.exe.config
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\orumcex.exe
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\orumcex.pdb
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\HtmlAgilityPack.dll
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\Newtonsoft.Json.dll
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\HtmlAgilityPack.pdb
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\HtmlAgilityPack.xml
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\bin\Debug\Newtonsoft.Json.xml
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\obj\Debug\orumcex.turkishdrama.resources
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\obj\Debug\orumcex.turkishseriesli.resources
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\obj\Debug\orumcex.Properties.Resources.resources
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\obj\Debug\orumcex.csproj.GenerateResource.Cache
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\obj\Debug\orumcex.exe
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\obj\Debug\orumcex.pdb
+C:\D\visual studio proj\orumcex project\orumcex\orumcex\obj\Debug\orumcex.csprojResolveAssemblyReference.cache
